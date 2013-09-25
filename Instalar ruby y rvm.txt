@@ -1,0 +1,3 @@
+rvm list --> enseña la lista de los rubys instalados y ves cual tienes por defecto
+
+rvm use <ruby-edition> --default --> cambiar el ruby por defecto
