@@ -4,4 +4,6 @@ Práctica 1.
 
 En esta practica se trabajará con Twitter y Ruby usando la gema de Twitter.
 
-El objetivo de la practica es ordenar a las personas que sigues segun cuantas personas sigan a este. 
+El objetivo de la practica es ordenar a las personas que sigues segun cuantas personas sigan a este.
+
+NOTA: No subo el archivo "configure.rb" ya que contiene datos personales. 
